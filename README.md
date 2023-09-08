@@ -27,7 +27,7 @@ The interactive dashboard provides the following features:
 
 ## Usage
 
-To explore the interactive dashboard, please visit [Dashboard Link](https://public.tableau.com/app/profile/virendra5272/viz/USH1Analysis/USH1BAnalysis?publish=yes).
+To explore the interactive dashboard, please visit [Dashboard Link](https://public.tableau.com/views/USH1Analysis/Dashboard12?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 ## Dependencies
 
