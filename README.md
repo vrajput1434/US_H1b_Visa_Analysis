@@ -1,6 +1,6 @@
 # US H1B Visa Analysis and Interactive Dashboard
 
-![Dashboard Preview](https://github.com/vrajput1434/US_H1b_Visa_Analysis/assets/82055256/9af49cb4-8479-4013-9a1f-ed57e176bd23)
+![Dashboard Preview](https://github.com/vrajput1434/US_H1b_Visa_Analysis/assets/82055256/3cf80766-bcbb-4507-9b89-50abe8f2a71b)
 
 ## Overview
 
