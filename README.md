@@ -1,6 +1,6 @@
 # US H1B Visa Analysis and Interactive Dashboard
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](https://drive.google.com/file/d/1d-oNTiv6E9sz3q4fejPR6Hw01tRkzPlF/view?usp=sharing)
 
 ## Overview
 
@@ -15,7 +15,7 @@ This repository contains the code and resources for an analysis of the US H1B vi
 
 ## Interactive Dashboard
 
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](https://drive.google.com/file/d/1d-oNTiv6E9sz3q4fejPR6Hw01tRkzPlF/view?usp=sharing)
 
 The interactive dashboard provides the following features:
 
