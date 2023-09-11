@@ -1,6 +1,6 @@
 # US H1B Visa Analysis and Interactive Dashboard
 
-![Dashboard Preview](https://drive.google.com/file/d/1d-oNTiv6E9sz3q4fejPR6Hw01tRkzPlF/view?usp=sharing)
+![Dashboard Preview](https://github.com/vrajput1434/US_H1b_Visa_Analysis/assets/82055256/9af49cb4-8479-4013-9a1f-ed57e176bd23)
 
 ## Overview
 
@@ -15,8 +15,7 @@ This repository contains the code and resources for an analysis of the US H1B vi
 
 ## Interactive Dashboard
 
-![Dashboard](https://drive.google.com/file/d/1d-oNTiv6E9sz3q4fejPR6Hw01tRkzPlF/view?usp=sharing)
-
+![Dashboard](https://github.com/vrajput1434/US_H1b_Visa_Analysis/assets/82055256/9af49cb4-8479-4013-9a1f-ed57e176bd23)
 The interactive dashboard provides the following features:
 
 - Overview of H1B visa approvals over the years.
